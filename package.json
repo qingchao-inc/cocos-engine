@@ -55,7 +55,7 @@
     "fs": "^0.0.1-security",
     "fs-extra": "^7.0.1",
     "ftp": "0.3.10",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-sequence": "^1.0.0",
     "gulp-zip": "^5.0.2",
     "http-server": "^0.12.3",

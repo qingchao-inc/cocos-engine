@@ -6,7 +6,7 @@
     "clear-platform": "node ./utils/clear-platform.js"
   },
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "@types/fs-extra": "^9.0.1",
     "async": "^2.6.1",
     "del": "^6.0.0",
